@@ -20,25 +20,25 @@ audio            : realtek audio
 if you have lenovo laptop close enough to this model please do not use this efi as is, you have to configure it yourself with dortania open core guide according to your cpu model
 
 working :
-wifi
-sleep
-keyboard
-screen brightness
-audio
-usb port (all)
-camera
-bluetooth
-battery status
-headphone jack
+wifi,
+sleep,
+keyboard,
+screen brightness,
+audio,
+usb port (all),
+camera,
+bluetooth,
+battery status,
+headphone jack,
 
 not working :
-powerbutton
-display brightness hotkey
-mousepad / trackpad
+powerbutton,
+display brightness hotkey,
+mousepad / trackpad,
 
 not tested :
-hdmi port
-sd card reader
+hdmi port,
+sd card reader,
 
 and please use this at your own risk!
 ![Screen Shot 2023-06-27 at 2 57 15 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/822387ae-f20f-48c9-a6a6-b55c79d540e4)
