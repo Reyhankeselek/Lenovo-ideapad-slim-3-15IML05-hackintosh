@@ -1,6 +1,8 @@
 # Lenovo-ideapad-slim-3-15IML05-hackintosh
 functional, ready to use, perfect efi for lenovo ideapad slim 3 15IML05 HACKINTOSH
 
+but remember to enter your smbios first before using it!
+
 please to make sure that you have the same model / bios 
 
 bios : DXCN44WW 
@@ -39,3 +41,6 @@ hdmi port
 sd card reader
 
 and please use this at your own risk!
+![Screen Shot 2023-06-27 at 2 57 15 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/822387ae-f20f-48c9-a6a6-b55c79d540e4)
+![Screen Shot 2023-06-27 at 2 57 25 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/559c997d-a550-4218-95ee-bad6256c29d5)
+![Screen Shot 2023-06-27 at 2 58 06 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/9e3e9e12-0c7b-4f46-a695-cb7c9e17e074)
