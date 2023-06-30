@@ -20,7 +20,7 @@ audio            : realtek audio
 if you have lenovo laptop close enough to this model please do not use this efi as is, you have to configure it yourself with dortania open core guide according to your cpu model
 
 
-https://dortania.github.io/OpenCore-Install-Guide/
+# https://dortania.github.io/OpenCore-Install-Guide/
 
 
 # working :
@@ -34,10 +34,10 @@ camera,
 bluetooth,
 battery status,
 headphone jack,
+display brightness hotkey,
 
 # not working :
 powerbutton,
-display brightness hotkey,
 mousepad / trackpad,
 
 # not tested :
