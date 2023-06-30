@@ -66,7 +66,7 @@ recreate mac os installer
 
 2 if ghostbuster logo appear you can try :
 
-enable verbose and googling the error message
+enable verbose mode and googling the error message
 
 try different smbios
 
