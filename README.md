@@ -23,7 +23,7 @@ if you have lenovo laptop close enough to this model please do not use this efi 
 https://dortania.github.io/OpenCore-Install-Guide/
 
 
-working :
+# working :
 wifi,
 sleep,
 keyboard,
@@ -35,16 +35,47 @@ bluetooth,
 battery status,
 headphone jack,
 
-not working :
+# not working :
 powerbutton,
 display brightness hotkey,
 mousepad / trackpad,
 
-not tested :
+# not tested :
 hdmi port,
 sd card reader,
 
-and please use this at your own risk!
+
+# How to use :
+
+put your smbios in the config.plist
+
+generate ssdt's with ssdttime : ssdt-EC,ssdt-HPET,ssdt-PNLF.ssdt-RTCAWAC,ssdt-XOSI
+
+and put the generated ssdt's in the EFI>OC>ACPI folder
+
+# Troubleshooting :
+
+if it does not boot or it goes to black screen and restart you can try :
+
+enabling/disabling dsdt (dsdt is disabled by default)
+
+recreate mac os installer
+
+
+if ghostbuster logo appear you can try :
+
+enable verbose and googling the error message
+
+try different smbios
+
+if kernel panic appears after installing mac os you can try:
+
+setting the date to 2019 and reinstall mac os
+
+configure your bios settings
+
+
+and please use this at your own risk!!!
 ![Screen Shot 2023-06-27 at 2 57 15 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/822387ae-f20f-48c9-a6a6-b55c79d540e4)
 ![Screen Shot 2023-06-27 at 2 57 25 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/559c997d-a550-4218-95ee-bad6256c29d5)
 ![Screen Shot 2023-06-27 at 2 58 06 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/9e3e9e12-0c7b-4f46-a695-cb7c9e17e074)
