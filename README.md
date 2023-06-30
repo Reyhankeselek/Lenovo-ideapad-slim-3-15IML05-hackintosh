@@ -25,7 +25,7 @@ if you have lenovo laptop close enough to this model please do not use this efi 
 # https://dortania.github.io/OpenCore-Install-Guide/
 
 
-# working :
+# Working :
 wifi,
 sleep,
 keyboard,
@@ -38,11 +38,11 @@ battery status,
 headphone jack,
 display brightness hotkey,
 
-# not working :
+# Not working :
 powerbutton,
 mousepad / trackpad,
 
-# not tested :
+# Not tested :
 hdmi port,
 sd card reader,
 
