@@ -26,7 +26,7 @@ if you have lenovo laptop close enough to this model please do not use this efi 
 
 
 # Working :
-wifi,
+wifi(HeliPort),
 sleep,
 keyboard,
 screen brightness,
@@ -53,7 +53,9 @@ put your smbios in the config.plist
 
 generate ssdt's with ssdttime : ssdt-EC,ssdt-HPET,ssdt-PNLF.ssdt-RTCAWAC,ssdt-XOSI
 
-and put the generated ssdt's in the EFI>OC>ACPI folder
+put the generated ssdt's in the EFI>OC>ACPI folder
+
+and after installing mac os : install HeliPort
 
 # Troubleshooting :
 
