@@ -11,7 +11,7 @@ cpu              : i3-10110u cometlake-u
 
 ram              : 4gb micron
 
-storage          : 256 gb
+storage          :NVMe SSSTC_CL1-4D256_SSD 256 gb
 
 wifi adapter     : intel wireless ac 9560
 
@@ -55,7 +55,7 @@ and put the generated ssdt's in the EFI>OC>ACPI folder
 
 # Troubleshooting :
 
-1 if it does not boot or it goes to black screen and restart you can try :
+1 if it does not boot or it goes to black screen and restarted you can try :
 
 enabling/disabling dsdt (dsdt is disabled by default)
 
