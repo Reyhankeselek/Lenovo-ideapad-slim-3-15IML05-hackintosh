@@ -55,20 +55,21 @@ and put the generated ssdt's in the EFI>OC>ACPI folder
 
 # Troubleshooting :
 
-if it does not boot or it goes to black screen and restart you can try :
+1 if it does not boot or it goes to black screen and restart you can try :
 
 enabling/disabling dsdt (dsdt is disabled by default)
 
 recreate mac os installer
 
 
-if ghostbuster logo appear you can try :
+2 if ghostbuster logo appear you can try :
 
 enable verbose and googling the error message
 
 try different smbios
 
-if kernel panic appears after installing mac os you can try:
+
+3 if kernel panic appears after installing mac os you can try:
 
 setting the date to 2019 and reinstall mac os
 
