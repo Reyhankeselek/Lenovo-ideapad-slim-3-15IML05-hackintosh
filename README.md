@@ -3,7 +3,7 @@ Functional, ready to use, perfect efi for lenovo ideapad slim 3 15IML05 HACKINTO
 
 But remember to enter your smbios first before using it!
 
-Please to make sure that you have the same model and bios version, but remember : IDEAPAD AND IDEAPAD-SLIM IS NOT THE SAME
+Please to make sure that you have the same model and bios version, but remember : **IDEAPAD AND IDEAPAD-SLIM IS NOT THE SAME**
 
 model            : LENOVO-IDEAPAD-SLIM-3 15IML05 
 
