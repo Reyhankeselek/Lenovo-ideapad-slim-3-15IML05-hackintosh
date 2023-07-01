@@ -5,7 +5,7 @@ But remember to enter your smbios first before using it!
 
 Please to make sure that you have the same model and bios version, but remember : **IDEAPAD AND IDEAPAD-SLIM IS NOT THE SAME**
 
-model            : LENOVO-IDEAPAD-SLIM-3 15IML05 
+Model            : LENOVO-IDEAPAD-SLIM-3 15IML05 
 
 Bios             : DXCN44WW 
 
@@ -80,6 +80,7 @@ setting the date to 2019 and reinstall mac os
 
 configure your bios settings
 
+This project took 3 weeks and i highly appriciate a star from you :)
 
 **And please use this at your own risk!!!**
 ![Screen Shot 2023-06-27 at 2 57 15 PM](https://github.com/Reyhankeselek/Lenovo-ideapad-slim-3-15IML05-hackintosh/assets/87765920/822387ae-f20f-48c9-a6a6-b55c79d540e4)
